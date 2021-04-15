@@ -14,7 +14,7 @@ import os
 import sys
 cur_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(cur_dir, '..', '..'))
-import mylib
+import mylib  # noqa
 
 # -- Project information -----------------------------------------------------
 
@@ -22,6 +22,8 @@ project = 'mylib'
 copyright = '2021, Frank Zalkow'
 author = 'Frank Zalkow'
 
+version = '0.0.1'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 
