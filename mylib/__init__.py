@@ -1,1 +1,1 @@
-from mylib import foo
+from .mylib import foo
