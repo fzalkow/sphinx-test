@@ -1,0 +1,4 @@
+docs/build/doctrees/*
+!docs/build/doctrees/.gitkeep
+
+*.pyc
