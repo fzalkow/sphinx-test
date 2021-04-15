@@ -3,7 +3,7 @@ def foo(a, b):
 
     Args:
         a: num1
-        b: num2:
+        b: num2
 
     Returns:
         Sum
